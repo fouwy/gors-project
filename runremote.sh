@@ -1,0 +1,1 @@
+ssh -i /home/gors/g.rsa.txt 192.168.109.151 'bash -s' < $1
