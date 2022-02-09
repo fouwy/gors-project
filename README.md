@@ -1,1 +1,1 @@
-# gors-project
+# Projeto GORS
